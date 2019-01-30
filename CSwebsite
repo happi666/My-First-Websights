@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="author" content="Harrison Fuller">
+	<meta name="description" content="Web sight about myself so that I can get credit for my CS 1030 class.">
+	<title> CS 1030 HW4</title>
+	<link href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Amatic+SC|PT+Sans:400,700" rel="stylesheet">
+	<link rel="stylesheet" href="CSstylesheet"
+	link rel="stylesheet" href="css/normalize.css">
+</head>
+
+<body id="top">
+	<header id="Header">
+		<img src="images/harryface">
+		<nav id="Nav">
+			<ul>
+				<li><a href="https://www.villageinn.com/">My Crappy Job</a></li>
+				<li><a href="https://soundcloud.com/kent-bullard/breakfast">My Unpopular Soundcloud page</a></li>
+			</ul>
+		</nav>
+	</header>
+<div class="text1">
+	<h1>If You Don't Feel Like Clicking The Link, Here Is The Player For Sake Of Laziness!<br></h1>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/67401440&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+</div>
+
+<div class="text2">
+	<h1>This Is A Description About My Table!</h1>
+		<p>This is a paragraph about my table that I am in the process of creating using html in a text edit program called 'Text Editor'. I really enjoy doing this because I need to guess at what tags and atributes I need to complete the assignment, thus causing me to memorize the html controls.</p>
+</div>
+
+<caption>So This Is My Table</caption>
+
+<table style="width:80%">
+	<tr>
+		<th>Monday</th>
+		<th>Tuesday</th>
+		<th>Wednesday</th>
+		<th>Thursday</th>
+		<th>Friday</th>
+		<th>Saturday</th>
+		<th>Sunday</th>
+	</tr>
+	<tr>
+		<td>HST (10:30-11:20)</td>
+		<td>ATCG (07:30-08:45) CS (09:30-11:20)</td>
+		<td>HST (10:30-11:20) WorkWork (15:00-22:00)</td>
+		<td>ATCG (07:30-08:45) CS (09:30-11:20) WorkWork (15:00-22:00)</td>
+		<td>HST (10:30-11:20) WorkWork (15:00-22:00)</td>
+		<td>WorkWork (06:00-15:00)</td>
+		<td>WorkWork (06:00-15:00)</td>
+	</tr>
+	<tr>
+		<td>ATCG LS/PL Assignment</td>
+		<td>CS HW</td>
+		<td>ATCG HW Assignment pt1</td>
+		<td>HST Study</td>
+		<td>CS Qz</td>
+		<td>ATCG HW Assignment pt2</td>
+		<td>Siesta</td>
+	</tr>
+		<td>No Fun Today</td>
+		<td>Cerveza</td>
+		<td>Family Fun Day</td>
+		<td>Alocated Netflix Time</td>
+		<td>Extra Homework Day</td>
+		<td>Cerveza</td>
+		<td>Siesta</td>
+
+</table>
+
+<h2>A Little More About Myself</h2><br>
+
+	<p>My hobbies mostly include things to do with music.  I play a few different instruments like drums, bass, guitar, banjo, trombone, and keys.</p><br>
+	<p>The degree I have declared as my major is still listed as a BFA because when I was 18, I thought I wanted to be a painter.  Turns out I'm actually pretty bad at most forms of visual art because I don't enjoy doing it so I never practice.  I took this intro computer science class as an experiment to see if I would enjoy it, and I do, very much.  Some time after spring break I'll find the admin office and apply for the batchlor's program.  The last step is to figure out exactly what type of CS I'm most interested in.</p>
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
